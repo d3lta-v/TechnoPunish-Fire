@@ -1,0 +1,10 @@
+name: TechnoPunish Fire Edition
+main: com.github.sammy0025.TechnoPunishFire.TechnoPunishFire
+version: 0.1b
+
+commands:
+  ignite:
+    description: Ignites players on fire. Good for humiliation when griefing.
+    usage: Please key in /ignite <player> to set player on fire.
+    permission: teleportation.teleport
+    permission-message: You do not have permission. If you believe you reached this in mistake, please contact the admin.
